@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sonu kumar 
+- 👋 Hi, I’m @sonu rai
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning some programming, acking
 - 💞️ I’m looking to collaborate on ...
